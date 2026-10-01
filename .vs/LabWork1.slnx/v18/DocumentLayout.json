@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\02.02\\LabWork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF90CF5-48E0-47E7-8188-3ED71D40E80E}|TestProjectLab11\\TestProjectLab11.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\testprojectlab11\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF90CF5-48E0-47E7-8188-3ED71D40E80E}|TestProjectLab11\\TestProjectLab11.csproj|solutionrelative:testprojectlab11\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF90CF5-48E0-47E7-8188-3ED71D40E80E}|TestProjectLab11\\TestProjectLab11.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\testprojectlab11\\testprojectlab11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EF90CF5-48E0-47E7-8188-3ED71D40E80E}|TestProjectLab11\\TestProjectLab11.csproj|solutionrelative:testprojectlab11\\testprojectlab11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D1FBE7-10D3-4315-893F-5A5C60B18BEC}|TestProject\\TestProject.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68D1FBE7-10D3-4315-893F-5A5C60B18BEC}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D1FBE7-10D3-4315-893F-5A5C60B18BEC}|TestProject\\TestProject.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\testproject\\userserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D1FBE7-10D3-4315-893F-5A5C60B18BEC}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\pairprogram\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|solutionrelative:pairprogram\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\pairprogram\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|solutionrelative:pairprogram\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\pairprogram\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|solutionrelative:pairprogram\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|c:\\temp\\ispp31\\02.02\\labwork1\\pairprogram\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDFB29C-D861-385E-D949-2D87571F23FE}|PairProgram\\PairProgram.csproj|solutionrelative:pairprogram\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProjectLab11.csproj",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProjectLab11\\TestProjectLab11.csproj",
+              "RelativeDocumentMoniker": "TestProjectLab11\\TestProjectLab11.csproj",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProjectLab11\\TestProjectLab11.csproj",
+              "RelativeToolTip": "TestProjectLab11\\TestProjectLab11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-25T07:39:17.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProjectLab11\\UnitTests.cs",
+              "RelativeDocumentMoniker": "TestProjectLab11\\UnitTests.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProjectLab11\\UnitTests.cs",
+              "RelativeToolTip": "TestProjectLab11\\UnitTests.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv3wAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:39:14.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProject\\UserServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserServiceUnitTests.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProject\\UserServiceUnitTests.cs",
+              "RelativeToolTip": "TestProject\\UserServiceUnitTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:35:28.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE0HAAAAAAAAAAAQwGsHAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-09T15:34:00.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PairProgram\\Services\\UserService.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\Services\\UserService.cs",
+              "RelativeToolTip": "PairProgram\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:27:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PairProgram\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\MainWindow.xaml",
+              "RelativeToolTip": "PairProgram\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T14:58:56.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PairProgram\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PairProgram\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:58:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T15:37:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PairProgram\\Models\\User.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\02.02\\LabWork1\\PairProgram\\Models\\User.cs",
+              "RelativeToolTip": "PairProgram\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:30:01.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

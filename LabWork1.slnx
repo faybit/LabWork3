@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PairProgram/PairProgram.csproj" />
+  <Project Path="TestProject/TestProject.csproj" Id="68d1fbe7-10d3-4315-893f-5a5c60b18bec" />
+  <Project Path="TestProjectLab11/TestProjectLab11.csproj" Id="4ef90cf5-48e0-47e7-8188-3ed71d40e80e" />
+</Solution>
